@@ -1,16 +1,19 @@
-<div align="center">       
-⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀<img width="600" height="400" src="https://files.catbox.moe/mruz0w.gif" />
-
-
-<br><br> 
-            
-<p>
-ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ                                <a href="https://mewwa.atabook.org/">Ata</a>ㅤ ㅤ ㅤ      ㅤ    ̣̣ㅤ ㅤ ㅤ ㅤ      ㅤ    <a href="https://halfp1pe.straw.page/">straw</a>   
+<div align="center">
+  <img align="right" src="https://files.catbox.moe/m4ltxn.png" width="360">
+  <br>
+  <br>
+  Call me Bo or Hasen
+  <br>
+  <br>
+  Graham Coxon's #1 fan
+  <br>
+  <br>
+  C+H always unless Dni in name!!
+  <br>
+  <br>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31irx2qm7sfl5euuvz2axpadwfii&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=true" width="190">
+  </a>
 </p>
-
-<p>
-ㅤ ㅤ ㅤ ㅤ      ㅤㅤ                             C+H freelyㅤ ㅤ ㅤ ㅤ      ㅤ  ⏖ㅤ ㅤ ㅤ ㅤ      ㅤ  Graham Coxon's #1 fan
-</p>
-
-</div>
-
+  <br>

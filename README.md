@@ -8,7 +8,8 @@
   Graham Coxon's #1 fan
   <br>
   <br>
-  C+H always unless Dni in name!!
+      <a href="https://github.com/THE-TEMPIST">The-tempist</a> <a href="https://github.com/piddlesjet">piddlesjet</a> <a href="https://github.com/pt-friendships">pt-friendships
+</a> 
   <br>
   <br>
 <p align="center">

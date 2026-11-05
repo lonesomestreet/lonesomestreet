@@ -8,7 +8,8 @@
   Graham Coxon's #1 fan
   <br>
   <br>
-  <details> <summary>ㅤㅤPT ₍^ >ヮ<^₎ .ᐟ.ᐟ </summary> <a href="https://github.com/THE-TEMPIST">The-tempist</a> . <a href="https://github.com/piddlesjet">piddlesjet</a> . <a href="https://github.com/pt-friendships">pt-friendships </a> . <a href="https://github.com/bug-town">bug-town </a> . <a href="https://github.com/pt-everypony">pt-everypony </a>
+  <details> <summary>ㅤㅤPT ₍^ >ヮ<^₎ .ᐟ.ᐟ </summary> <a href="https://github.com/THE-TEMPIST">The-tempist</a> . <a href="https://github.com/piddlesjet">piddlesjet</a> . <a href="https://github.com/pt-friendships">pt-friendships </a> . <a href="https://github.com/bug-town">bug-town</a> . <a href="https://github.com/pt-everypony">pt-everypony</a> . <a href="https://github.com/animal-town">animal-town</a>
+    <a href="https://github.com/pony-town-nominations">pony-town-nominations</a> . <a href="https://github.com/Knox-Event">Knox-Event</a>
   </p> </details>
 <br>
   <br>
